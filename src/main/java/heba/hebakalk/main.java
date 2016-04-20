@@ -4,7 +4,7 @@ package heba.hebakalk;
 public class main {
 
 	 public static void main(String[] args) {
-	  // TODO Auto-generated method stub
+	
 
 	  hebakalk Calculator = new hebakalk();
 	  
